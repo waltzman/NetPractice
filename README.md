@@ -27,10 +27,14 @@ It includes separate hosts, newtworks, routers, routing tables.
 The tables have *shaded* or *unshaded* fields.
 To configure the network you must modify the unshaded fields.
 You are not able to modify shaded fields.
+At the top of window you will see a list of goals to achieve.
+To verify that your configuration works push **Check Again** button.
+To download your configurations push **Get my config** button.
+If your configuration is correct, a new button will appear: **Next level**
 
 ## Evaluation
 
-Use evaluation tab to do four random configurations.
+Use evaluation tab to do three random configurations.
 
 # Resources
 
@@ -38,3 +42,9 @@ Use evaluation tab to do four random configurations.
 * <https://youtu.be/Pb6R1QCGMPY?si=9wYA-wsuRlB1zGUz>
 
 # Submission details
+
+You must turn 10 files to the root of your repository (1 file per level).
+**IMPORTANT: ** you must enter your login in the interface.
+
+To defend your project you must succed with three random levels in limited time.
+Use of external resources is forbiden.
