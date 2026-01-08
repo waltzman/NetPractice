@@ -44,7 +44,7 @@ Use evaluation tab to do three random configurations.
 # Submission details
 
 You must turn 10 files to the root of your repository (1 file per level).  
-**IMPORTANT: ** you must enter your login in the interface.
+**IMPORTANT:** you must enter your login in the interface.
 
 To defend your project you must succed with three random levels in limited time.
 Use of external resources is forbiden.
